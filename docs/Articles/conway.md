@@ -1,13 +1,16 @@
-# How Do Committees Invent?
+# Melvin Conway - How Do Committees Invent?
 
 > Melvin E. Conway  
 > Copyright 1968, F. D. Thompson Publications, Inc.  
 > Reprinted by permission of
 > Datamation magazine,
-> where it appeared April, 1968.
+> where it appeared April, 1968.  
+
+Reformatted content from the [original site](https://www.melconway.com/Home/Conways_Law.html)
 
 ---
 
+## How Do Committees Invent?
 That kind of intellectual activity which creates a whole from its diverse parts may be called the design of a system. Whether the particular activity is the creation of specifications for a major weapon system, the formation of a recommendation to meet a social challenge, or the programming of a computer, the general activity is largely the same.
 
 Typically, the objective of a design organization is the creation and assembly of a document containing a coherently structured body of information. We may name this information the system design. It is typically produced for a sponsor who usually desires to carry out some activity guided by the system design. For example, a public official may wish to propose legislation to avert a recurrence of a recent disaster, so he appoints a team to explain the catastrophe. Or a manufacturer needs a new product and designates a product planning activity to specify what should be introduced.

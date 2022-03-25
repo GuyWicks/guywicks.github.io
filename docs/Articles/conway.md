@@ -1,4 +1,4 @@
-# Melvin Conway - How Do Committees Invent?
+# How Do Committees Invent?
 
 > Melvin E. Conway  
 > Copyright 1968, F. D. Thompson Publications, Inc.  
@@ -11,9 +11,9 @@ Reformatted content from the [original site](https://www.melconway.com/Home/Conw
 ---
 
 ## How Do Committees Invent?
-That kind of intellectual activity which creates a whole from its diverse parts may be called the design of a system. Whether the particular activity is the creation of specifications for a major weapon system, the formation of a recommendation to meet a social challenge, or the programming of a computer, the general activity is largely the same.
+That kind of intellectual activity which creates a whole from its diverse parts may be called the *design* of a *system*. Whether the particular activity is the creation of specifications for a major weapon system, the formation of a recommendation to meet a social challenge, or the programming of a computer, the general activity is largely the same.
 
-Typically, the objective of a design organization is the creation and assembly of a document containing a coherently structured body of information. We may name this information the system design. It is typically produced for a sponsor who usually desires to carry out some activity guided by the system design. For example, a public official may wish to propose legislation to avert a recurrence of a recent disaster, so he appoints a team to explain the catastrophe. Or a manufacturer needs a new product and designates a product planning activity to specify what should be introduced.
+Typically, the objective of a design organization is the creation and assembly of a document containing a coherently structured body of information. We may name this information the *system design*. It is typically produced for a sponsor who usually desires to carry out some activity guided by the system design. For example, a public official may wish to propose legislation to avert a recurrence of a recent disaster, so he appoints a team to explain the catastrophe. Or a manufacturer needs a new product and designates a product planning activity to specify what should be introduced.
 
 The design organization may or may not be involved in the construction of the system it designs. Frequently, in public affairs, there are policies which discourage a group's acting upon its own recommendations, whereas, in private industry, quite the opposite situation often prevails.
 
@@ -22,8 +22,9 @@ It seems reasonable to suppose that the knowledge that one will have to carry ou
 ## Stages of Design
 The initial stages of a design effort are concerned more with structuring of the design activity than with the system itself.[2] The full-blown design activity cannot proceed until certain preliminary milestones are passed. These include:
 
-Understanding of the boundaries, both on the design activity and on the system to be designed, placed by the sponsor and by the world's realities,
-Achievement of a preliminary notion of the system's organization so that design task groups can be meaningfully assigned.
+1. Understanding of the boundaries, both on the design activity and on the system to be designed, placed by the sponsor and by the world's realities,
+1. Achievement of a preliminary notion of the system's organization so that design task groups can be meaningfully assigned.
+
 We shall see in detail later that the very act of organizing a design team means that certain design decisions have already been made, explicitly or otherwise. Given any design team organization, there is a class of design alternatives which cannot be effectively pursued by such an organization because the necessary communication paths do not exist. Therefore, there is no such thing as a design group which is both organized and unbiased.
 
 Once the organization of the design team is chosen, it is possible to delegate activities to the subgroups of the organization. Every time a delegation is made and somebody's scope of inquiry is narrowed, the class of design alternatives which can be effectively pursued is also narrowed.
@@ -32,64 +33,63 @@ Once scopes of activity are defined, a coordination problem is created. Coordina
 
 Thus the life cycle of a system design effort proceeds through the following general stages.
 
-Drawing of boundaries according to the ground rules.
-Choice of a preliminary system concept.
-Organization of the design activity and delegation of tasks according to that concept.
-Coordination among delegated tasks.
-Consolidation of subdesigns into a single design.
+1. Drawing of boundaries according to the ground rules.
+1. Choice of a preliminary system concept.
+1. Organization of the design activity and delegation of tasks according to that concept.
+1. Coordination among delegated tasks.
+1. Consolidation of subdesigns into a single design.
+
 It is possible that a given design activity will not proceed straight through this list. It might conceivably reorganize upon discovery of a new, and obviously superior, design concept; but such an appearance of uncertainty is unflattering, and the very act of voluntarily abandoning a creation is painful and expensive. Of course, from the vantage point of the historian, the process is continually repeating. This point of view has produced the observation that there's never enough time to do something right, but there's always enough time to do it over.
 
 ## The Designed System
-Any system of consequence is structured from smaller subsystems which are interconnected. A description of a system, if it is to describe what goes on inside that system, must describe the system's connections to the outside world, and it must delineate each of the subsystems and how they are interconnected. Dropping down one level, we can say the same for each of the subsystems, viewing it as a system. This reduction in scope can continue until we are down to a system which is simple enough to be understood without further subdivision.
+Any system of consequence is structured from smaller *subsystems* which are interconnected. A description of a system, if it is to describe what goes on inside that system, must describe the system's connections to the outside world, and it must delineate each of the subsystems and how they are interconnected. Dropping down one level, we can say the same for each of the subsystems, viewing it as a system. This reduction in scope can continue until we are down to a system which is simple enough to be understood without further subdivision.
 
-Examples. A transcontinental public transportation system consists of buses, trains, airplanes, various types of right-of-way, parking lots, taxicabs, terminals, and so on. This is a very heterogeneous system; that is, the subsystems are quite diverse. Dropping down one level, an airplane, for example. may possess subsystems for structure, propulsion, power distribution, communication, and payload packaging. The propulsion subsystem has fuel, ignition, and starting subsystems, to name a few.
+*Examples.* A transcontinental public transportation system consists of buses, trains, airplanes, various types of right-of-way, parking lots, taxicabs, terminals, and so on. This is a very heterogeneous system; that is, the subsystems are quite diverse. Dropping down one level, an airplane, for example. may possess subsystems for structure, propulsion, power distribution, communication, and payload packaging. The propulsion subsystem has fuel, ignition, and starting subsystems, to name a few.
 
 It may be less obvious that a theory is a system in the same sense. It relates to the outside world of observed events where it must explain, or at least not contradict, them. It consists of subtheories which must relate to each other in the same way. For example, the investigation of an airplane crash attempts to produce a theory explaining a complex event. It can consist of subtheories describing the path of the aircraft, its radio communications, the manner of its damage, and its relationship to nearby objects at the time of the event. Each of these, in turn, is a story in itself which can he further broken down into finer detail down to the level of individual units of evidence.
 
-Linear graphs. Fig. 1 illustrates this view of a system as a linear graph -- a Tinker-Toy structure with branches (the lines) and nodes (the circles). Each node is a subsystem which communicates with other subsystems along the branches. In turn, each subsystem may contain a structure which may be similarly portrayed. The term interface, which is becoming popular among systems people, refers to the inter-subsystem communication path or branch represented by a line in Fig. 1. Alternatively, the interface is the plug or flange by which the path coming out of one node couples to the path coming out of another node.
-
-
+*Linear graphs.* Fig. 1 illustrates this view of a system as a *linear graph* -- a Tinker-Toy structure with *branches* (the lines) and *nodes* (the circles). Each node is a subsystem which communicates with other subsystems along the branches. In turn, each subsystem may contain a structure which may be similarly portrayed. The term *interface*, which is becoming popular among systems people, refers to the inter-subsystem communication path or branch represented by a line in Fig. 1. Alternatively, the interface is the plug or flange by which the path coming out of one node couples to the path coming out of another node.
 
 #### Figure 1
+*Diagrams not available*
 
 ## Relating the Two
-The linear-graph notation is useful because it provides an abstraction which has the same form for the two entities we are considering: the design organization and the system it designs. This can be illustrated in Fig. 1 by replacing the following words.
+The linear-graph notation is useful because it provides an abstraction *which has the same form* for the two entities we are considering: the design organization and the system it designs. This can be illustrated in Fig. 1 by replacing the following words.
 
-Replace "system" by "committee."
-Replace "subsystem" by "subcommittee."
-Replace "interface" by "coordinator."
+- Replace "system" by "committee."
+- Replace "subsystem" by "subcommittee."
+- Replace "interface" by "coordinator."
+
 Just as with systems, we find that design groups can be viewed at several levels of complication. The Federal Government, for example. is an excellent example of a design organization with enough complexity to satisfy any system engineer. This is a particularly interesting example for showing the similarity of the two concepts being studied here because the Federal Government is both a design organization (designing laws, treaties, and policies) and a designed system (the Constitution being the principal preliminary design document).
 
-A basic relationship. We are now in a position to address the fundamental question of this article. Is there any predictable relationship between the graph structure of a design organization and the graph structure of the system it designs? The answer is: Yes, the relationship is so simple that in some cases it is an identity. Consider the following "proof."
+*A basic relationship.* We are now in a position to address the fundamental question of this article. Is there any predictable relationship between the graph structure of a design organization and the graph structure of the system it designs? The answer is: Yes, the relationship is so simple that in some cases it is an identity. Consider the following "proof."
 
 Let us choose arbitrarily some system and the organization which designed it, and let us then choose equally arbitrarily some level of complication of the designed system for which we can draw a graph. (Our motivation for this arbitrariness is that if we succeed in demonstrating anything interesting, it will hold true for any design organization and level of complication.) Fig. 2 shows, for illustration purposes only, a structure to which the following statements may be related.
 
-
-
 #### Figure 2
+*Diagrams not available*
 
-For any node x in the system we can identify a design group of the design organization which designed x; call this X. Therefore, by generalization of this process, for every node of the system we have a rule for finding a corresponding node of the design organization. Notice that this rule is not necessarily one-to-one; that is, the two subsystems might have been designed by a single design group.
+For *any* node *x* in the system we can identify a design group of the design organization which designed *x*; call this X. Therefore, by generalization of this process, for every node of the system we have a rule for finding a corresponding node of the design organization. Notice that this rule is not necessarily one-to-one; that is, the two subsystems might have been designed by a single design group.
 
-Interestingly, we can make a similar statement about branches. Take any two nodes x and y of the system. Either they are joined by a branch or they are not. (That is, either they communicate with each other in some way meaningful to the operation of the system or they do not.) If there is a branch, then the two (not necessarily distinct) design groups X and Y which designed the two nodes must have negotiated and agreed upon an interface specification to permit communication between the two corresponding nodes of the design organization. If, on the other hand, there is no branch between x and y, then the subsystems do not communicate with each other, there was nothing for the two corresponding design groups to negotiate, and therefore there is no branch between X and Y.[3]
+Interestingly, we can make a similar statement about branches. Take any two nodes *x* and *y* of the system. Either they are joined by a branch or they are not. (That is, either they communicate with each other in some way meaningful to the operation of the system or they do not.) If there is a branch, then the two (not necessarily distinct) design groups X and Y which designed the two nodes must have negotiated and agreed upon an interface specification to permit communication between the two corresponding nodes of the design organization. If, on the other hand, there is no branch between *x* and *y*, then the subsystems do not communicate with each other, there was nothing for the two corresponding design groups to negotiate, and therefore there is no branch between X and Y.[3]
 
 What have we just shown? Roughly speaking, we have demonstrated that there is a very close relationship between the structure of a system and the structure of the organization which designed it. In the not unusual case where each subsystem had its own separate design group, we find that the structures (i.e., the linear graphs) of the design group and the system are identical. In the case where some group designed more than one subsystem we find that the structure of the design organization is a collapsed version of the structure of the system, with the subsystems having the same design group collapsing into one node representing that group.
 
-This kind of a structure-preserving relationship between two sets of things is called a homomorphism. Speaking as a mathematician might, we would say that there is a homomorphism from the linear graph of a system to the linear graph of its design organization.
+This kind of a structure-preserving relationship between two sets of things is called a *homomorphism*. Speaking as a mathematician might, we would say that there is a *homomorphism* from the linear graph of a system to the linear graph of its design organization.
 
 ## Systems Image Their Design Groups
 It is an article of faith among experienced, system designers that given any system design, someone someday will find a better one to do the same job. In other words, it is misleading and incorrect to speak of the design for a specific job, unless this is understood in the context of space, time, knowledge, and technology. The humility which this belief should impose on system designers is the only appropriate posture for those who read history or consult their memories
 
 The design progress of computer translators of programming languages such as F0RTRAN and COBOL is a case in point. In the middle fifties, when the prototypes of these languages appeared, their compilers were even more cumbersome objects than the giant (for then) computers which were required for their execution. Today, these translators are only historical curiosities, bearing no resemblance in design to today's compilers. (We should take particular note of the fact that the quantum jumps in compiler design progress were associated with the appearance of new groups of people on territory previously trampled chiefly by computer manufacturers -- first it was the tight little university research team, followed by the independent software house.)
 
-If, then, it is reasonable to assume that for any system requirement there is a family of system designs which will meet that requirement, we must also inquire whether the choice of design organization influences the process of selection of a system design from that family. If we believe our homomorphism, then we must agree that it does. To the extent that an organization is not completely flexible in its communication structure, that organization will stamp out an image of itself in every design it produces. The larger an organization is, the less flexibility it has and the more pronounced is the phenomenon.
+If, then, it is reasonable to assume that for any system requirement there is a *family* of system designs which will meet that requirement, we must also inquire whether the choice of design organization influences the process of selection of a system design from that family. If we believe our homomorphism, then we must agree that it does. To the extent that an organization is not completely flexible in its communication structure, that organization will stamp out an image of itself in every design it produces. The larger an organization is, the less flexibility it has and the more pronounced is the phenomenon.
 
-Examples. A contract research organization had eight people who were to produce a COBOL and an ALGOL compiler. After some initial estimates of difficulty and time, five people were assigned to the COBOL job and three to the ALGOL job. The resulting COBOL compiler ran in five phases, the ALG0L compiler ran in three.
+*Examples.* A contract research organization had eight people who were to produce a COBOL and an ALGOL compiler. After some initial estimates of difficulty and time, five people were assigned to the COBOL job and three to the ALGOL job. The resulting COBOL compiler ran in five phases, the ALG0L compiler ran in three.
 
 Two military services were directed by their Commander-in-Chief to develop a common weapon system to meet their respective needs. After great effort they produced a copy of their organization chart. (See Fig. 3a.)
 
-
-
 #### Figure 3
+*Diagrams not available*
 
 Consider the operating computer system in use solving a problem. At a high level of examination, it consists of three parts: the hardware, the system software, and the application program. (See Fig. 3b.) Corresponding to these subsystems are their respective designers: the computer manufacturer's engineers, his system programmers, and the user's application programmers. (Those rare instances where the system hardware and software tend to cooperate rather than merely tolerate each other are associated with manufacturers whose programmers and engineers bear a similar relationship.)
 

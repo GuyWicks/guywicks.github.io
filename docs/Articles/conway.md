@@ -98,9 +98,10 @@ The structures of large systems tend to disintegrate during development, qualita
 
 Why do large systems disintegrate? The process seems to occur in three steps, the first two of which are controllable and the third of which is a direct result of our homomorphism.
 
-First, the realization by the initial designers that the system will be large, together with certain pressures in their organization, make irresistible the temptation to assign too many people to a design effort.
-Second, application of the conventional wisdom of management to a large design organization causes its communication structure to disintegrate.
-Third, the homomorphism insures that the structure of the system will reflect the disintegration which has occurred in the design organization.
+- First, the realization by the initial designers that the system will be large, together with certain pressures in their organization, make irresistible the temptation to assign too many people to a design effort.
+- Second, application of the conventional wisdom of management to a large design organization causes its communication structure to disintegrate.
+- Third, the homomorphism insures that the structure of the system will reflect the disintegration which has occurred in the design organization.
+
 Let us first examine the tendency to overpopulate a design effort. It is a natural temptation of the initial designer -- the one whose preliminary design concepts influence the organization of the design effort -- to delegate tasks when the apparent complexity of the system approaches his limits of comprehension. This is the turning point in the course of the design. Either he struggles to reduce the system to comprehensibility and wins, or else he loses control of it. The outcome is almost predictable if there is schedule pressure and a budget to be managed.
 
 A manager knows that he will be vulnerable to the charge of mismanagement if he misses his schedule without having applied all his resources. This knowledge creates a strong pressure on the initial designer who might prefer to wrestle with the design rather than fragment it by delegation, but he is made to feel that the cost of risk is too high to take the chance. Therefore, he is forced to delegate in order to bring more resources to bear.

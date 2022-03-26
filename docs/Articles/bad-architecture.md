@@ -3,21 +3,16 @@ theme: gaia
 paginate: true
 backgroundColor: #ffffff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
-header: ''
+_header: ''
 footer: '&copy;2022 Guy Wicks'
+title: 'Bad Architecture'
 ---
+<!-- _class: lead -->
 # Bad Architecture
 
-*Where does bad architecture come from, what is it's impact and how do we stop it.*
+*Where does bad architecture come from, what is its impact and how do we stop it.*
 
 April 2022 - Guy Wicks
-
----
-## Where does bad architecture come from?
-
-- Why do we need architecture?
-- Where does bad architecture come from?
-- How can we measure architectural quality?
 
 ---
 <!-- _class: lead -->
@@ -27,15 +22,16 @@ April 2022 - Guy Wicks
 Brian Foote
 
 ---
-## 
+## Where does bad architecture come from?
 
-- What does *bad* architecture look like?
+- What does *bad architecture* look like?
 - What *causes* bad architecture?
 - What is the *cost* of bad architecture?
 
----
-## So why do we keep doing bad architecture?
+- Why do we need *architecture*?
+- How can we *measure* architectural quality?
 
+---
 **The *Homomorphic* organization**
 
 A structure-preserving relationship between two sets of things is called a *homomorphism*
@@ -45,7 +41,6 @@ A structure-preserving relationship between two sets of things is called a *homo
 *"When all you have is box of hammers, every problem looks like a nail."*
 
 ---
-## So why do we keep doing bad architecture?
 **The *Sunk Cost* fallacy** 
 
 Continuing a course of action where the time, effort, or money invested may not now outweigh the final benefits.
@@ -53,7 +48,6 @@ Continuing a course of action where the time, effort, or money invested may not 
 *"Because the design which occurs first is almost never the best possible, the prevailing system concept may need to change. Therefore, flexibility of organization is important to effective design."*
 
 ---
-## So why do we keep doing bad architecture?
 **The *Nirvana* fallacy**
 
 Solutions to problems are rejected because they are not perfect.
@@ -61,23 +55,21 @@ Solutions to problems are rejected because they are not perfect.
 *"It is an article of faith among experienced system designers that given any system design, someone someday will find a better one to do the same job. It is misleading and incorrect to speak of the design for a specific job, unless this is understood in the context of space, time, knowledge, and technology."*
 
 ---
-## So why do we keep doing bad architecture?
-**The *Argument to moderation* fallacy**
+**The *Argument to Moderation* fallacy**
 
 Assuming that a compromise between two positions is always correct.
 
 *"Ways must be found to reward design managers for keeping their organizations lean and flexible."*
 
 ---
-## So why do we keep doing bad architecture?
-
 **The *Quantitative* fallacy**
 
 Making an argument using only quantitative observations (measurements, statistical or numerical values) and discounting subjective information that focuses on quality (traits, features, or relationships).
 
+*Prioritising short term project objectives (time, money, scope) against the longer term (unrewarded) organisational goals.*
+
 ---
-## So why do we keep doing bad architecture?
-**The *Continuum fallacy* fallacy**
+**The *Continuum* fallacy**
 
 Improperly rejecting a claim for being imprecise.
 
@@ -118,28 +110,44 @@ Never time to do it right. Always time to do it again.
 ---
 ## Who's in charge?
 
+The Project Manager or Product Owner?
 
+The Business or IT Strategy?
+
+The Platform Team?
+
+The Well Trodden Path?
+
+The Need?
 
 ---
 ## What's the change?
 
+Architecture is a journey, not a destination.
 
----
-## What good looks like
+But the absence of direction certainly mean you'll never arrive where you want to be.
 
+There's no right answer, but there are many wrong ones.
+
+Fail fast, fail better.
 
 ---
 ## Conclusion
 
-2 + 2 = 5?
+Does 2 + 2 = 5?
 
 ---
 ## Conclusion
 
-2 + 2 = 5
-
-*for large values of 2*
+Does 2 + 2 = 5?  **Yes!** *(for large values of 2)*
 
 **If you're not satisfied with your outputs, then look at your inputs.**
 
+---
+<!-- _class: lead -->
+# Thank You 
 
+---
+## Reference
+
+https://en.wikipedia.org/wiki/List_of_fallacies

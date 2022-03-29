@@ -59,7 +59,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#bad-architecture" class="md-skip">
+        <a href="#good-architecture-gone-bad" class="md-skip">
           Skip to content
         </a>
       
@@ -277,6 +277,20 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#failure-from-logical-fallacies" class="md-nav__link">
+    Failure from Logical Fallacies
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-ritual" class="md-nav__link">
+    The Ritual
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#what-is-the-cost-of-bad-architecture" class="md-nav__link">
     What is the cost of bad architecture?
   </a>
@@ -478,6 +492,20 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#failure-from-logical-fallacies" class="md-nav__link">
+    Failure from Logical Fallacies
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-ritual" class="md-nav__link">
+    The Ritual
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#what-is-the-cost-of-bad-architecture" class="md-nav__link">
     What is the cost of bad architecture?
   </a>
@@ -541,9 +569,10 @@
 
 
 <!-- _class: lead -->
-<h1 id="bad-architecture">Bad Architecture</h1>
-<p><em>Where does bad architecture come from, what is its impact and how do we stop it.</em></p>
+<h1 id="good-architecture-gone-bad">Good Architecture Gone Bad</h1>
+<p><em>Where does bad architecture come from, what the impact, and how do we prevent it.</em></p>
 <p>April 2022 - Guy Wicks</p>
+<p><a href="/Slides/bad-architecture">Slides</a></p>
 <hr />
 <!-- _class: lead -->
 
@@ -562,6 +591,33 @@
 </li>
 <li>How can we <em>measure</em> architectural quality?</li>
 </ul>
+<hr />
+<h2 id="failure-from-logical-fallacies">Failure from Logical Fallacies</h2>
+<hr />
+<h2 id="the-ritual">The Ritual</h2>
+<p>You can't performance test a design document.</p>
+<p>Explore first, then design from what you found</p>
+<p>Good architecture supports iterative deployment and quicker delivery to production - where it can then be measured.</p>
+<hr />
+<p>GA allows development to pivot quickly, at minimum risk and cost, in order to find the required outcome</p>
+<p>Start with a model, and assume it is wrong. When you find <em>where</em> it is wrong, you can correct it. Then repeat and refine and improve until it becomes less wrong.</p>
+<hr />
+<p>"Big Design Up Front" assumes the <em>design</em> was right.
+You should create a <em>model</em> and assume everything is wrong.</p>
+<hr />
+<p>"Managing Complexity" - compartmentalizing the system to allow understanding of the pieces and make changes without affecting other parts of the system - designing the system in a way that provides isolation from change impact.</p>
+<p>Architecture is about <em>"The Significant Decisions"</em></p>
+<hr />
+<p>How make this thing so you can make changes in the future without having this immense 'blast radius' of dependencies.</p>
+<p>"With great power comes great responsibility"</p>
+<p>Fitness Functions</p>
+<hr />
+<p>"Building evolutionary architectures" Book</p>
+<p>Align services with 'bounded context' </p>
+<p>The separation between Essential and Accidental complexity</p>
+<hr />
+<p>IT manage the boxes. Architecture manage the lines.</p>
+<p>Abstraction leading to high modularity</p>
 <hr />
 <p><strong>The <em>Homomorphic</em> organization</strong></p>
 <p>A structure-preserving relationship between two sets of things is called a <em>homomorphism</em></p>
@@ -625,6 +681,7 @@
 <p>But the absence of direction certainly mean you'll never arrive where you want to be.</p>
 <p>There's no right answer, but there are many wrong ones.</p>
 <p>Fail fast, fail better.</p>
+<p><strong>Measure real world outcomes.</strong></p>
 <hr />
 <h2 id="conclusion">Conclusion</h2>
 <p>Does 2 + 2 = 5?</p>
@@ -637,7 +694,10 @@
 <h1 id="thank-you">Thank You</h1>
 <hr />
 <h2 id="reference">Reference</h2>
-<p>https://en.wikipedia.org/wiki/List_of_fallacies</p>
+<p>List of Fallacies:<br />
+https://en.wikipedia.org/wiki/List_of_fallacies</p>
+<p>Inspiration from:<br />
+https://www.youtube.com/watch?v=7YpFGkG-u1w</p>
 
               
             </article>
